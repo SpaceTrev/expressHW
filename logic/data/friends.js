@@ -1,0 +1,85 @@
+
+let friends = [
+    {
+       "name":"Sergei",
+       "photo":"https://i1.wp.com/therightscoop.com/wp-content/uploads/2017/06/putin_angry.jpg?w=800",
+       "scores":[
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+       ]
+    },
+    {
+       "name":"Jimi Hendrix",
+       "photo":"https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fewedit.files.wordpress.com%2F2018%2F03%2Fjimihendrix_bothsidesofthesky_01_credit_chuckboyd_authentichendrix.jpg%3Fw%3D1800&w=800&q=85",
+       "scores":[
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5",
+          "5"
+       ]
+    },
+    {
+       "name":"Jim Morrison",
+       "photo":"https://www.thefamouspeople.com/profiles/images/jim-morrison-15.jpg",
+       "scores":[
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "3",
+          "2",
+          "5",
+          "3",
+          "5"
+       ]
+    },
+    {
+       "name":"Harry Potter",
+       "photo":"https://images.ctfassets.net/bxd3o8b291gf/3SQ3X2km8wkQIsQWa02yOY/25f258f21bdbe5f552a4419bb775f4f0/HarryPotter_WB_F4_HarryPotterMidshot_Promo_080615_Port.jpg?w=1200",
+       "scores":[
+          "2",
+          "2",
+          "1",
+          "1",
+          "2",
+          "2",
+          "3",
+          "3",
+          "3",
+          "3"
+       ]
+    },
+     {
+        "name":"Voldemort",
+        "photo":"https://upload.wikimedia.org/wikipedia/en/a/a3/Lordvoldemort.jpg",
+        "scores":[
+           "4",
+           "4",
+           "4",
+           "5",
+           "5",
+           "5",
+           "5",
+           "4",
+           "2",
+           "2"
+        ]
+     }
+ ]
+ 
+ module.exports = friends;
